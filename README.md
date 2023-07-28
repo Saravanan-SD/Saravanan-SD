@@ -2,9 +2,9 @@
 
 <img align= "right" alt="GIF" width="500px" height="280px" src="https://github.com/Saravanan-SD/Saravanan-SD/blob/master/Images/profile.gif/">
 
-- 🔭 I’m currently working on Data analytics projects.
+- 🔭 I’m currently working on Machine projects.
 - 🌱 I’m currently learning Predictive modelling.
-- 👯 I’m looking to collaborate on any end to end Data analytics project.
+- 👯 I’m looking to collaborate on any end to end Data science project.
 - 💬 Ask me about anything, I ll try my best to share my knowledge.
 - 📫 How to reach me: csvel13@hotmail
 - 💭 Quote: NO DATA IS CLEAN BUT MOST IS USEFULL
